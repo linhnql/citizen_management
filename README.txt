@@ -5,7 +5,7 @@
 - đk tạm trú, tạm vắng
 - tìm kiếm
 2. quản lý thông tin hộ khẩu
-- tách hộ khẩu (thêm)
+- tách hộ khẩu 
 - tìm kiếm
 3. quản lý khoản thu phí, đóng góp
 - thêm khoản thu
